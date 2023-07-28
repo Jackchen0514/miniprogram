@@ -9,6 +9,7 @@
     {
       "root": "packageComponent",
       "pages": [
+        "pages/view/login/login",
         "pages/view/view/view",
         "pages/view/scroll-view/scroll-view",
         "pages/view/swiper/swiper",

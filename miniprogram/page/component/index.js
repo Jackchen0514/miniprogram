@@ -34,7 +34,7 @@ Page({
         id: 'view',
         name: '视图容器',
         open: false,
-        pages: ['view', 'scroll-view', 'swiper', 'movable-view', 'cover-view']
+        pages: ['view', 'scroll-view', 'swiper', 'movable-view', 'cover-view', 'login']
       }, {
         id: 'content',
         name: '基础内容',
